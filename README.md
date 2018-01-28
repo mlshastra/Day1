@@ -1,6 +1,5 @@
-# Day1
 
-# This folder will containt Day-1 Presentation and Code material
+# Day-1 Agenda
 
 ## Introduction to Machine Learning - Theory
 ## Introduction to R and RStudio - Theory & Practicals
@@ -11,12 +10,12 @@
 ## Comparision of different Classification Technicals - Practicals
 ### NavieBayes 
 ### KMeans clustering method applied to Classification
-KNear Neighbours 
-Decision Tree  - RPART
-Decision Tree  - CTREE
-Decision Tree  - TREE
-Decision Tree  - C50
-Neural Networks 
-K Support Vector Machines 
-Logistic Regression 
-Improving Classification using Cost Functions
+### KNear Neighbours 
+### Decision Tree  - RPART
+### Decision Tree  - CTREE
+### Decision Tree  - TREE
+### Decision Tree  - C50
+### Neural Networks 
+### K Support Vector Machines 
+### Logistic Regression 
+## Improving Classification using Cost Functions
