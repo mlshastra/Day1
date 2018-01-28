@@ -2,8 +2,9 @@
 library(gmodels) # 
 
 set.seed(1)
-data = read.csv('wisc_bc_data.csv') # Read csv file
+data = read.csv('wdbc.csv') # Read csv file
 data2 = data[-1] # take out first id column 
+colnames(data2)[1] <- "diagnosis"
 
 str(data2)
 data2$diagnosis = factor( data2$diagnosis) # factorize diagnosis column
