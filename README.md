@@ -2,7 +2,8 @@
 
 # This folder will containt Day-1 Presentation and Code material
 
-#Introduction to Machine Learning - Theory
+## Introduction to Machine Learning - Theory
+
 #Introduction to R and RStudio - Theory & Practicals
 #Introduction to simple splitting of data & Practicals
 #Introduction Classification Methods - NaiveBayes - Theory & Practicals
