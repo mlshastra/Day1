@@ -6,7 +6,6 @@
 ## Introduction to simple splitting of data - Theory & Practicals
 ## Introduction Classification Methods - NaiveBayes - Theory & Practicals
 ## Introduction to Classification using Decision Trees - Theory & Practicals
-## Tinroduction to KNN - Theory & Practicals
 ## Comparision of different Classification Technicals - Practicals
 ### NavieBayes 
 ### KMeans clustering method applied to Classification
