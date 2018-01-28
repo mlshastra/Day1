@@ -3,7 +3,7 @@
 
 ## Introduction to Machine Learning - Theory
 ## Introduction to R and RStudio - Theory & Practicals
-## Introduction to simple splitting of data & Practicals
+## Introduction to simple splitting of data - Theory & Practicals
 ## Introduction Classification Methods - NaiveBayes - Theory & Practicals
 ## Introduction to Classification using Decision Trees - Theory & Practicals
 ## Tinroduction to KNN - Theory & Practicals
